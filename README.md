@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **bedena2000@gmail.com**
 
-- 📝 Check my **[Portfolio](https://myfirstportfolio-kappa.vercel.app/)**
+- 📝 Check my **[Portfolio]([https://myfirstportfolio-kappa.vercel.app/](https://newportfolio-nine-liart.vercel.app/projects))**
 
 #
 
