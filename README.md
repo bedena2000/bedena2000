@@ -16,8 +16,6 @@
 <div align="center">
   <img src="./icons/nextjs.png" alt="nextjs" width="40" height="40" />&nbsp;&nbsp;
   <img src="./icons/mysql.png" alt="mysqlicon"width="65" height="40" />&nbsp;&nbsp;
-  <img src="./icons/dart.png" alt="dark" width="40" height="40" />&nbsp;&nbsp;
- <img src="./icons/flutter.png" alt="flutter" width="40" height="40" />&nbsp;&nbsp;
  <img src="./icons/tailwind.png" alt="tailwind" width="65" height="40" />
 </div>
 
