@@ -7,7 +7,6 @@
   <img src="./icons/js.png" alt="javascript" width="40" height="40" />&nbsp;&nbsp;
   <img  src="./icons/ts.png" alt="typescript" width="40" height="40" />&nbsp;&nbsp;
   <img  src="./icons/react.png" alt="react" width="48" height="40" />&nbsp;&nbsp;
-  <img  src="./icons/laravel.png" alt="laravel" width="40" height="40" />&nbsp;&nbsp;
   <img  src="./icons/nodejs.png" alt="nodejs" width="60" height="40" />
 </div>
 
