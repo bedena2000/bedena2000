@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **bedena2000@gmail.com**
 
-- 📝 Check my **[Portfolio](https://portfoliobedena.netlify.app/)** 
+- 📝 Check my **[Portfolio](https://bedenaportfolio.netlify.app/)** 
 
 #
 
